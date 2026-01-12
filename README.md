@@ -1,1 +1,1 @@
-Hey! I’m boriya, I’m interested in coming up with solutions to fix day to day problems. currently learning python more in depth, curious on how it applies to ML and the AI field in general. hoping to collaborate on more open source projects in 2026! :) 
+welcome to my github! I’m boriya, I’m interested in coming up with solutions to fix day to day problems. Still working on pushing projects so bare with me, but I am very interested in using Python in ML and the AI field in general. Hoping to collaborate on more open source projects in 2026! :) 
