@@ -1,1 +1,2 @@
-welcome to my github! I’m boriya, I’m interested in coming up with solutions to fix day to day problems. Still working on pushing projects so bare with me. Hoping to collaborate on more open source projects in 2026! :) 
+Hello, I'm Boriya! I'm a Second-Year Computer Science Student @ Sorbonne Université (Jussieu campus). I build systems solving real-world problems. Outside of CS I've spent 3+ years in competitive debate and have organised countless events (most with over 200+ participants...)
+
